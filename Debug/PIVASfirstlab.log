@@ -1,0 +1,4 @@
+﻿  PIVASfirstlab.cpp
+D:\program\2 курс\PIVASlabs\PIVASfirstlab\PIVASfirstlab.cpp(71): warning C4715: Dictionary::SearchWord: значение возвращается не при всех путях выполнения
+D:\program\2 курс\PIVASlabs\PIVASfirstlab\PIVASfirstlab.cpp(129): warning C4715: Dictionary::DeleteList: значение возвращается не при всех путях выполнения
+  PIVASfirstlab.vcxproj -> D:\program\2 курс\PIVASlabs\PIVASfirstlab\Debug\PIVASfirstlab.exe
